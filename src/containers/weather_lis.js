@@ -1,10 +1,8 @@
-import React, {Component} from 'react';
-
+import React, { Component } from 'react';
 
 export default class WeatherList extends Component {
     render() {
         return (
-        
             <table className="table table-gover">
                 <thead>
                     <tr>
@@ -12,7 +10,6 @@ export default class WeatherList extends Component {
                     </tr>
                 </thead>
                 <tbody>
-                    
             
                 </tbody>
             </table>
